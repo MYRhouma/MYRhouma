@@ -1,5 +1,5 @@
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MYRhouma/MYRhouma/master/wave.gif" width="30" height="30">
+# Hello, folks! <img src="https://github.com/MYRhouma/MYRhouma/blob/ca5d788be8c5085d258ea9b730f27707df5db110/wave.gif" width="30" height="30">
 
 My name is Mohamed Yassine Rhouma and I'm a software engineer. I'm from Tunisia, traveling between Tunis and Debrecen,Hungary and currently working as a Part-time Software Engineer. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
