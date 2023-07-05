@@ -48,8 +48,8 @@ My name is Mohamed Yassine Rhouma and I'm a software engineer. I'm from Tunisia,
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png "twitter icon with padding"
-[2.1]: http://i.imgur.com/0o48UoR.png "github icon with padding"
+[1.1]: http://i.imgur.com/tXSoThF.png ""
+[2.1]: http://i.imgur.com/0o48UoR.png ""
 
 <!-- icons without padding -->
 
