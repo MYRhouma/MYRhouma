@@ -1,24 +1,18 @@
 
 # Hello, folks! <img src="https://github.com/MYRhouma/MYRhouma/blob/ca5d788be8c5085d258ea9b730f27707df5db110/wave.gif" width="30" height="30">
 
-My name is Mohamed Yassine Rhouma and I'm a software engineer. I'm from Tunisia, traveling between Tunis and Debrecen,Hungary and currently working as a Part-time Software Engineer. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name is Yassine Rhouma and I'm a software engineer. I'm currently located in Budapest,Hungary. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
-## Things you should know
-
-- 🔭 <b>Currently working on:</b> React & Django
-- 🌱 <b>Getting better at:</b> Mathematical concepts like Game Theory
-- 🤔 <b>Exploring:</b> Solidity
-- 💬 <b>Ask me about:</b> Mathematical algorithms
-- 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:yassinemastouri001@gmail.com" target="_blank">yassinemastouri001@gmail.com</a>
+- 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:yassine.rhouma@icloud.com" target="_blank">yassine.rhouma@icloud.com</a>
 
 ### My Stacks
 
 ```json
 {
-  "languages": ["Python", "Javascript", "Typescript", "C", "C++","Lua"],
+  "languages": ["Python", "Javascript", "Typescript", "C", "C++", "C#", "Lua"],
   "frameworks/libraries": {
     "backend": ["Django", "Django Rest Framework"],
-    "frontend": ["React.js", "React Native", "Next.js", "Chakra UI", "Boostrap", "Material UI", "JQuery", "React Native"],
+    "frontend": ["React.js", "React Native", "Next.js", "Chakra UI", "Tailwind CSS", "Material UI", "JQuery", "React Native"],
     "web3": ["Web3.js", "Metamask", "Three.js"],
     "others": ["SDL", "Unreal Engine 4", "TensorFlow", "OpenCV","Redux", "Redux Toolkit", "React Hook Form", "Formik" , "Yup", "Axios"]
   },
